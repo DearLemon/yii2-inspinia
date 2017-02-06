@@ -12,13 +12,13 @@ main.php增加
         'view' => [
              'theme' => [
                  'pathMap' => [
-                '@app/views' => '@vendor/lkk/yii2-inspinia/views'
+                '@app/views' => '@vendor/DearLemon/yii2-inspinia/views'
                 ],
             ],
         ],
     ],
 
-或者 将vendor/lkk/yii2-inspinia/views下的文件，替换自己views下的文件
+或者 将vendor/DearLemon/yii2-inspinia/views下的文件，替换自己views下的文件
 
 如指定页面error使用layouts/empty，方法如下
 
