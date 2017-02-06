@@ -6,6 +6,9 @@ v2.6.2.1
 
 https://wrapbootstrap.com/theme/inspinia-responsive-admin-theme-WB0R5L90S
 
+#Installation
+composer require lemon/yii2-inspinia "*"
+
 main.php增加
 
     'components' => [
