@@ -1,13 +1,13 @@
 <?php
 
-namespace DearLemon\inspinia;
+namespace lemon\inspinia;
 
 use yii\web\AssetBundle;
 
 class AppAsset extends AssetBundle
 {
 
-    public $sourcePath = '@vendor/DearLemon/yii2-inspinia/assets';
+    public $sourcePath = '@vendor/lemon/yii2-inspinia/assets';
     public $css = [
         'css/animate.css',
         'css/style.css'
@@ -23,7 +23,7 @@ class AppAsset extends AssetBundle
         //'yii\jui\JuiAsset',
         'yii\web\YiiAsset',
         'yii\bootstrap\BootstrapPluginAsset',
-        'DearLemon\inspinia\FontawesomeAsset'
+        'lemon\inspinia\FontawesomeAsset'
     ];
 
 }

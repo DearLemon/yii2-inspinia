@@ -1,12 +1,12 @@
 <?php
-namespace DearLemon\inspinia\widgets;
+namespace lemon\inspinia\widgets;
 
 use Yii;
 use yii\base\InvalidConfigException;
 use yii\helpers\Html;
 use yii\base\Widget;
 use yii\helpers\ArrayHelper;
-use DearLemon\inspinia\TimeagoAsset;
+use lemon\inspinia\TimeagoAsset;
 
 class Timeago extends Widget
 {

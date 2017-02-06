@@ -1,6 +1,6 @@
 <?php
 
-namespace DearLemon\inspinia;
+namespace lemon\inspinia;
 
 class TimeagoAsset extends \yii\web\AssetBundle
 {

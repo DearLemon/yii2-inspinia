@@ -1,10 +1,10 @@
 <?php
-namespace DearLemon\inspinia;
+namespace lemon\inspinia;
 
 /**
  * Class FontawesomeAsset
  *
- * @package DearLemon\inspinia
+ * @package lemon\inspinia
  */
 class ionRangeSliderAsset extends \yii\web\AssetBundle
 {

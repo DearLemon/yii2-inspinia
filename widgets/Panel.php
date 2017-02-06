@@ -1,11 +1,11 @@
 <?php
 
-namespace DearLemon\inspinia\widgets;
+namespace lemon\inspinia\widgets;
 
 /**
  * Class Panel
  *
- * @package DearLemon\inspinia\widgets
+ * @package lemon\inspinia\widgets
  */
 class Panel extends \yii\base\Widget
 {

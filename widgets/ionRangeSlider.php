@@ -1,12 +1,12 @@
 <?php
 
-namespace DearLemon\inspinia\widgets;
+namespace lemon\inspinia\widgets;
 
 use yii\base\InvalidConfigException;
 use yii\helpers\Html;
 use yii\helpers\Json;
 use yii\widgets\InputWidget;
-use DearLemon\inspinia\ionRangeSliderAsset;
+use lemon\inspinia\ionRangeSliderAsset;
 
 /**
  * Class IonSlider

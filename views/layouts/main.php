@@ -2,7 +2,7 @@
 /* @var $this \yii\web\View */
 /* @var $content string */
 
-use DearLemon\inspinia\AppAsset;
+use lemon\inspinia\AppAsset;
 use yii\helpers\Html;
 use yii\bootstrap\Nav;
 use yii\bootstrap\NavBar;
@@ -10,7 +10,7 @@ use yii\widgets\Breadcrumbs;
 use yii\bootstrap\Alert;
 
 AppAsset::register($this);
-$directoryAsset = Yii::$app->assetManager->getPublishedUrl('@vendor/DearLemon/yii2-inspinia/assets');
+$directoryAsset = Yii::$app->assetManager->getPublishedUrl('@vendor/lemon/yii2-inspinia/assets');
 ?>
 <?php $this->beginPage() ?>
 <!DOCTYPE html>

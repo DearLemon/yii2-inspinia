@@ -1,12 +1,12 @@
 {
-    "name": "DearLemon/yii2-inspinia",
+    "name": "lemon/yii2-inspinia",
     "description": "Inspinia template widgets",
     "type": "yii2-extension",
     "keywords": ["yii2", " inspinia", " assets", " widgets"],
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "DearLemon",
+            "name": "lemon",
             "email": ""
         }
     ],
@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "DearLemon\\inspinia\\": ""
+            "lemon\\inspinia\\": ""
         }
     }
 }
