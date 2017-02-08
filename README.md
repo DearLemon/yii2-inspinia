@@ -2,6 +2,9 @@ Inspinia Admin Theme
 ====================
 v2.6.2.1
 
+Forked:
+https://github.com/lkk/yii2-inspinia
+
 这是一个商业模板,使用前请先购买版权
 
 https://wrapbootstrap.com/theme/inspinia-responsive-admin-theme-WB0R5L90S

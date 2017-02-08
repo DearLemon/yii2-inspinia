@@ -13,11 +13,11 @@ class AppAsset extends AssetBundle
         'css/style.css'
     ];
     public $js = [
+        'js/plugins/modal/ajax-modal-popup.js',
         'js/plugins/metisMenu/jquery.metisMenu.js',
         'js/plugins/slimscroll/jquery.slimscroll.min.js',
         'js/inspinia.js',
         'js/plugins/pace/pace.min.js',
-        'js/ajax-modal-popup.js'
     ];
     public $depends = [
         //'yii\jui\JuiAsset',
